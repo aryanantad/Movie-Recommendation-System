@@ -46,6 +46,8 @@ python -m uvicorn main:app --reload
 # Frontend
 streamlit run app.py
 ```
+# to use Link:
+https://movie-recommendation-system-i4szjt73hxcffshwjvxnm4.streamlit.app/
 
 ## 👨‍💻 Author
 
