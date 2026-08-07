@@ -11,6 +11,12 @@ A Movie Recommendation System built using **Streamlit**, **FastAPI**, and the **
 - ⚡ FastAPI REST API backend
 - 🎨 Interactive Streamlit web interface
 
+##Project Interface:
+<img width="1899" height="954" alt="Screenshot 2026-08-07 231621" src="https://github.com/user-attachments/assets/28da21d1-7a5e-44e2-933b-857c965ff864" /><img width="1889" height="940" alt="Screenshot 2026-08-07 231638" src="https://github.com/user-attachments/assets/18680389-b110-4c39-9d7f-ed7b3b92939a" />
+<img width="1904" height="965" alt="Screenshot 2026-08-07 231607" src="https://github.com/user-attachments/assets/009681c1-54e3-47a2-89f8-b2622ab40495" />
+
+
+
 ## 🛠️ Tech Stack
 
 - **Frontend:** Streamlit
