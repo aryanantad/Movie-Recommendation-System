@@ -8,7 +8,7 @@ import httpx
 from fastapi import FastAPI, HTTPException, Query
 from fastapi.middleware.cors import CORSMiddleware
 from pydantic import BaseModel
-from dotenv import load_dotenv
+from dotenv import load_dotenv  
 
 load_dotenv()
 TMDB_API_KEY = os.getenv("TMDB_API_KEY")
